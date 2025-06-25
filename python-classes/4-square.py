@@ -22,4 +22,5 @@ class Square:
     def area(self):
         return self.__size ** 2
     def my_print(self):
-        print(self.__size * "#")
+        for i in self:
+             print(self.__size * "#")
