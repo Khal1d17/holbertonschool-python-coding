@@ -1,16 +1,6 @@
 #!/usr/bin/python3
-"""
-    Class atribute is important 
-       Attributes:
-       size (int): The length of a side of the square.
-"""
-
-
-class Square:
-    """
-    Class atribute is important
-       Attributes:
-       size (int): The length of a side of the square.
-    """
+"""class atrubute"""
+class square:
+    """private atribute"""
     def __init__(self, size):
         self.__size = size
