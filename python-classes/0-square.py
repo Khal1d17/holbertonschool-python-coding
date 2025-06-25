@@ -5,5 +5,10 @@
        size (int): The length of a side of the square.
     """
 class Square:
+    """
+    Class atribute is important
+       Attributes:
+       size (int): The length of a side of the square.
+    """
     def __init__(self, size):
         self.__size = size
