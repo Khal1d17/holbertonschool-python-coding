@@ -1,9 +1,11 @@
 #!/usr/bin/python3
-    """
+"""
     Class atribute is important 
        Attributes:
        size (int): The length of a side of the square.
-    """
+"""
+
+
 class Square:
     """
     Class atribute is important
